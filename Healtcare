@@ -1,0 +1,72 @@
+🏥 PROJECT 2: HEALTHCARE ANALYSIS
+
+Dataset:
+"Hospital Dataset" or "Diabetes Dataset"
+Analysis Ideas:
+Patient age distribution
+Disease frequency
+Treatment success rate
+Example:
+sns.histplot(df['Age'])
+plt.title("Age Distribution")
+
+⚽ PROJECT 3: SPORTS ANALYTICS
+  
+Dataset:
+IPL / Football dataset
+Analysis:
+Top players
+Team performance
+Win prediction (ML)
+ML Example:
+from sklearn.linear_model import LinearRegression
+
+model = LinearRegression()
+model.fit(X_train, y_train)
+
+📈 PROJECT 4: STOCK MARKET ANALYSIS
+  
+Dataset:
+Yahoo Finance / Kaggle
+Analysis:
+Stock trends
+Moving averages
+df['MA50'] = df['Close'].rolling(50).mean()
+
+🛒 PROJECT 5: E-COMMERCE ANALYSIS
+  
+Dataset:
+Online Retail Dataset
+Analysis:
+Customer segmentation
+Top products
+
+🤖 MACHINE LEARNING
+
+Use:
+
+Linear Regression
+Logistic Regression
+
+Example:
+
+from sklearn.model_selection import train_test_split
+
+X_train, X_test, y_train, y_test = train_test_split(X, y)
+
+model.fit(X_train, y_train)
+
+
+📊 DASHBOARD 
+
+Use:
+
+Streamlit (easy)
+import streamlit as st
+
+st.title("Sales Dashboard")
+st.line_chart(df['Sales'])
+
+Run:
+
+streamlit run app.py
