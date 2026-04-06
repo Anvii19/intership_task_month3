@@ -1,0 +1,90 @@
+data_analytics_portfolio/
+│── README.md
+│── requirements.txt
+│── portfolio_summary.ipynb
+│── executive_summary.pdf
+│
+├── project1_sales_analysis/
+├── project2_healthcare_analysis/
+├── project3_sports_analytics/
+├── project4_financial_analysis/
+├── project5_ecommerce_analytics/
+│
+├── datasets/
+├── reports/
+├── visualizations/
+├── presentation/
+└── docs/
+
+
+Project-wise Implementation
+🟢 Project 1: Sales Analysis
+Dataset:
+Kaggle: Superstore Sales
+Analysis:
+Monthly revenue trends
+Top products
+Region-wise sales
+Visualizations:
+Line chart (sales over time)
+Bar chart (top products)
+Pie chart (region share)
+Insight Example:
+"Sales peak in November–December due to seasonal demand"
+
+
+
+🔵 Project 2: Healthcare Analysis
+Dataset:
+Hospital dataset (patients, treatments)
+Analysis:
+Patient count by disease
+Treatment success rate
+Cost analysis
+Visualizations:
+Histogram (age distribution)
+Bar chart (disease count)
+Insight:
+"Cardiac cases are highest among age 50+"
+
+
+🟣 Project 3: Sports Analytics
+Dataset:
+IPL / Football dataset
+Analysis:
+Player performance
+Team win ratio
+Match trends
+Visualizations:
+Player ranking chart
+Win percentage graph
+Insight:
+"Top 3 players contribute 60% of team wins"
+
+
+🟡 Project 4: Financial Analysis
+Dataset:
+Stock market (Yahoo Finance)
+Analysis:
+Stock trends
+Risk (volatility)
+Returns
+Visualizations:
+Line chart (stock price)
+Moving average
+Insight:
+"High volatility stocks give higher returns but higher risk"
+
+
+🔴 Project 5: E-commerce Analysis
+Dataset:
+Online retail dataset
+Analysis:
+Customer segmentation
+Best-selling products
+Sales trends
+Visualizations:
+RFM analysis chart
+Heatmap
+Insight:
+"20% customers generate 80% revenue (Pareto principle)"
