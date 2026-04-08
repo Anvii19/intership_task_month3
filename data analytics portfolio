@@ -1,0 +1,39 @@
+# Data Analytics Portfolio
+
+## Overview
+This portfolio contains 5 end-to-end data analytics projects across different domains:
+- Sales
+- Healthcare
+- Sports
+- Finance
+- E-commerce
+
+## Tools Used
+- Python (Pandas, NumPy)
+- Matplotlib, Seaborn
+- Jupyter Notebook
+
+## Key Highlights
+- 25+ visualizations
+- Real-world datasets
+- Business insights
+
+## Projects
+1. Sales Analysis
+2. Healthcare Analysis
+3. Sports Analytics
+4. Financial Analysis
+5. E-commerce Analytics
+
+## Author
+Muskan Verma
+
+
+# requirements.tx
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
